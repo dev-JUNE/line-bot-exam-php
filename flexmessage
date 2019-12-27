@@ -1,0 +1,105 @@
+{
+  "type": "bubble",
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://image.makewebeasy.net/makeweb/0/5noMY3RQb/a/GQ3FRA_TG020.jpg",
+            "size": "full",
+            "aspectMode": "fit",
+            "aspectRatio": "10:10",
+            "flex": 1,
+            "align": "start"
+          }
+        ]
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "contents": [
+                  {
+                    "type": "span",
+                    "text": "✨EUROPE TULIP LOVER เยอรมนี เนเธอร์แลนด์ เบลเยี่ยม 9 วัน 6",
+                    "weight": "bold",
+                    "color": "#000000"
+                  },
+                  {
+                    "type": "span",
+                    "text": "     "
+                  }
+                ],
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "contents": [
+                      {
+                        "type": "span",
+                        "text": "🎒วันเดินทาง : เม.ย. - พ.ค. 63🔥 "
+                      }
+                    ],
+                    "size": "sm",
+                    "wrap": true
+                  },
+                  {
+                    "type": "box",
+                    "layout": "baseline",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "โดยสายการบิน Thai Airways (TG)",
+                        "size": "sm",
+                        "color": "#bcbcbc"
+                      }
+                    ],
+                    "spacing": "sm",
+                    "margin": "md"
+                  },
+                  {
+                    "type": "text",
+                    "text": "เริ่มต้น 49,900 บาท",
+                    "weight": "bold",
+                    "size": "xl"
+                  }
+                ]
+              },
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "ดาวน์โหลดโปรแกรม",
+                  "uri": "https://image.makewebeasy.net/makeweb/0/5noMY3RQb/Document/BH_BE_01_04_DME001_มหัศจรรย์_Russia_Super_Save_6_วัน_4_คืน_TG__JAN_APR_.pdf"
+                },
+                "style": "primary",
+                "color": "#0CBF49",
+                "height": "sm",
+                "margin": "xs"
+              }
+            ]
+          }
+        ],
+        "spacing": "xl",
+        "paddingAll": "20px"
+      }
+    ],
+    "paddingAll": "0px"
+  }
+}
